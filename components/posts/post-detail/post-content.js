@@ -47,6 +47,7 @@ function PostContent(props) {
 							alt={image.properties.alt}
 							width={600}
 							height={300}
+							layout='responsive'
 						/>
 					</div>
 				);
